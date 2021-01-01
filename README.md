@@ -29,7 +29,7 @@ ___
 
 <!-- Link-->
 [thisisalink](thisisalink)
-[BLOCKSCRIBERS](blockscribers.com)
+[BLOCKSCRIBERS](www.blockscribers.com)
 
 <!-- UL -->
 * Item 1
